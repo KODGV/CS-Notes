@@ -102,11 +102,11 @@ public ListNode reverseList(ListNode head) {
 }
 ```
 
-#  3. 归并两个有序的链表
+#  3. 链表排序
 
-21\. Merge Two Sorted Lists (Easy)
+21\. Sort List (Easy)
 
-[Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/description/) / [力扣](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)
+[力扣](https://leetcode-cn.com/problems/sort-list/)
 
 ```java
 public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
